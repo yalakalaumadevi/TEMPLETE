@@ -1,0 +1,273 @@
+.main {
+    height: 550px;
+    width: 100%;
+    /* border: 2px solid red; */
+    text-align: center;
+    background-color:gray;
+    color: white;
+}
+
+.sub1 {
+    height: 450px;
+    width: 450px;
+    /* border: 2px solid green; */
+    float: left;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+
+.sub1 i {
+    margin-right: 390px;
+    font-size: 30px;
+}
+
+.sub2 {
+    height: 450px;
+    width: 450px;
+    /* border: 2px solid green; */
+    margin-left: 700px;
+    margin-top: 30px;
+}
+
+.sub2 img {
+    height: 450px;
+    width: 450px;
+}
+
+.main1 {
+    height: 600px;
+    width: 100%;
+    /* border: 2px solid red; */
+    text-align: center;
+    margin-top: 10px;
+    background-color: azure;
+}
+
+.main1 button {}
+
+.siri1 {
+    height: 350px;
+    width: 250px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+.siri1 img {
+    height: 350px;
+    width: 250px;
+
+}
+
+.siri2 {
+    height: 350px;
+    width: 250px;
+    /* border: 2px solid red; */
+    margin-left: 50px;
+    margin-top: 50px;
+    float: left;
+}
+
+.siri2 img {
+    height: 350px;
+    width: 250px;
+
+
+}
+
+.siri3 {
+    height: 350px;
+    width: 250px;
+    /* border: 2px solid red; */
+    margin-left: 50px;
+    margin-top: 50px;
+    float: left;
+}
+
+.siri3 img {
+    height: 350px;
+    width: 250px;
+
+}
+
+.siri4 {
+    height: 350px;
+    width: 250px;
+    /* border: 2px solid red; */
+    margin-top: 60px;
+    margin-left: 950px;
+
+}
+
+.siri4 img {
+    height: 350px;
+    width: 250px;
+
+}
+
+.siri5 button {
+    margin-top: 40px;
+    margin-right: 310px;
+    margin-left: 350px;
+    padding: 5px 15px;
+    color: green;
+}
+
+.vivi1 {
+    height: 400px;
+    width: 100%;
+    /* border: 2px solid red; */
+    margin-top: 10px;
+    background-color: pink;
+}
+
+.vivi {
+    height: 360px;
+    width: 380px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 180px;
+    margin-top: 30px;
+}
+
+.vivi img {
+    height: 360px;
+    width: 380px;
+}
+
+.avi {
+    height: 400px;
+    width: 100%;
+    /* border: 2px solid red; */
+    background-color: lemonchiffon;
+}
+
+.avi1 {
+    height: 350px;
+    width: 380px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 160px;
+    margin-top: 30px;
+
+}
+
+.nar1 {
+    height: 270px;
+    width: 380px;
+    /* border: 1px solid red; */
+}
+
+.nar2 {
+    height: 50px;
+    width: 150px;
+    border: 1px solid gray;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+    background-color: gray;
+
+
+}
+.nar2 h3{
+    text-align: center;
+}
+
+
+.nar3 {
+    height: 50px;
+    width: 150px;
+    border: 1px solid grey;
+    margin-top: 20px;
+    margin-left: 200px;
+    background-color: gray;
+
+}
+.nar3 h3{
+    text-align: center;
+}
+
+
+.man1 {
+    height: 180px;
+    width: 380px;
+    /* border: 1px solid red; */
+}  
+
+.man2 {
+    height: 60px;
+    width: 150px;
+    border: 1px solid grey;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: gray;
+
+}
+.man2 h3{
+    text-align: center;
+}
+
+.man3 {
+    height: 50px;
+    width: 150px;
+    border: 1px solid grey;
+    margin-left: 190px;
+    margin-top: 20px;
+    background-color: gray;
+
+}
+.man3 h3{
+    text-align: center;
+}
+
+
+.man4 {
+    height: 50px;
+    width: 150px;
+    border: 1px solid grey;
+    margin-top: 15px;
+    margin-left: 20px;
+    float: left;
+    margin-right: 100px;
+    background-color: gray;
+
+
+}
+.man4 h3{
+    text-align: center;
+}
+
+
+
+.man5 {
+    height: 50px;
+    width: 150px;
+    border: 1px solid grey;
+    margin-top: 20px;
+    margin-left: 190px;
+    background-color: gray;
+} 
+.man5 h3{
+    text-align: center;
+}
+
+ .nar1 iframe {
+    height: 270px;
+    width: 380px;
+
+}
+.surr{
+    height: 500px;
+    width: 100%;
+    border: 2px solid black;
+    margin-top: 20px;
+
+}
+.sur{
+    height: 245px;
+    width: 100%;
+    border: 2px solid greenyellow;
+}
